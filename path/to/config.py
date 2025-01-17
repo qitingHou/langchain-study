@@ -1,0 +1,1 @@
+API_URL_REDIRECT = {"https://api.chatanywhere.tech/v1/chat/completions"}
